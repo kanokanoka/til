@@ -6,8 +6,8 @@
 [flask](/flask) ・・・ PythonのWebのやつ  
 [uWSGI](/uWSGI) ・・・ よくわからんやつ  
 [OpenRASP-IAST](/OpenRASP-IAST) ・・・ OSSのIAST  
-[git](/git) ・・・ Gitについて
-[python](/python) ・・・ 主に標準ライブラリとか
+[git](/git) ・・・ Gitについて  
+[python](/python) ・・・ 主に標準ライブラリとか  
 
 ## 著者
 kanokanoka / JTC な 事業会社 の Security で Agile なビジネスパーソン
