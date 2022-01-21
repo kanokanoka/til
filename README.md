@@ -16,4 +16,4 @@
 [tir](/tir) ・・・ Today I Readということで、読んだものを書く  
 
 ## 著者
-kanokanoka / JTC な 事業会社 の Security で Agile なビジネスパーソン
+kanokanoka / Security と Agile な Office Worker
