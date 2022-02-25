@@ -10,6 +10,7 @@
 [OpenRASP-IAST](/OpenRASP-IAST) ・・・ OSSのIAST  
 [git](/git) ・・・ Gitについて  
 [python](/python) ・・・ 主に標準ライブラリとか  
+[NFT](/NFT) ・・・ よくわからん界隈
 [NVD](/NVD) ・・・ 脆弱性情報系について  
 
 ### Others
