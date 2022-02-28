@@ -9,7 +9,7 @@
 [uWSGI](/uWSGI) ・・・ よくわからんやつ  
 [OpenRASP-IAST](/OpenRASP-IAST) ・・・ OSSのIAST  
 [git](/git) ・・・ Gitについて  
-[python](/python) ・・・ 主に標準ライブラリとか  
+[python](/python) ・・・ 主に標準ライブラリとかpythonを使うためのツール  
 [NFT](/NFT) ・・・ よくわからん界隈  
 [NVD](/NVD) ・・・ 脆弱性情報系について  
 
