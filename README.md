@@ -5,6 +5,7 @@
 ## 一覧
 
 ### Tech
+[Bandit](/Bandit) ・・・ PythonのSAST  
 [flask](/flask) ・・・ PythonのWebのやつ  
 [uWSGI](/uWSGI) ・・・ よくわからんやつ  
 [OpenRASP-IAST](/OpenRASP-IAST) ・・・ OSSのIAST  
