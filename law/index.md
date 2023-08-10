@@ -1,5 +1,6 @@
 # 法律全般
 
+* NIS Directive
 * EUサイバーセキュリティ戦略
 * [EUサイバーレジリエンス法](./EU_Cyber_Resilience_Act.md)
 
