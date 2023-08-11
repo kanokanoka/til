@@ -2,6 +2,6 @@
 
 * [法律](law/index.md)
 
-* CVSS v4.0
+* [脆弱性](vulnerability/index.md)
 
 * [イベント](event/index.md)
