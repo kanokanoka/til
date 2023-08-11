@@ -7,4 +7,7 @@ blackhat 2023
 
 RSA 2023
 
+CRYPTRECシンポジウム 2023
+* https://www.cryptrec.go.jp/events/cryptrec_symposium2023_presentation.html
+
 [return](../README.md)
