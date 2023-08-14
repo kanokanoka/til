@@ -5,5 +5,5 @@
 * iSecurity
   * https://www.nikkei.com/article/DGXZRSP651038_T10C23A3000000/
 * Netpoleon
- * https://www.nikkei.com/article/DGXZRSP651038_T10C23A3000000/
+  * https://www.nikkei.com/article/DGXZRSP651038_T10C23A3000000/
 * [return](../README.md)
