@@ -1,3 +1,3 @@
 # 会社
 
-* (return)[../README.md]
+* [return](../README.md)
