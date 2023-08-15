@@ -10,3 +10,7 @@
 
 * 未整理
   * https://www.ipa.go.jp/security/controlsystem/ug65p900000197wa-att/000076755.pdf
+ 
+|date|内容|
+|---|---|
+|2015/12|ロシア→ウクライナ|
