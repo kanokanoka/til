@@ -14,6 +14,8 @@
     * https://www.cisa.gov/news-events/news/cisa-releases-infrastructure-resilience-planning-framework-launchpoint
   * JCDC
     * https://www.cisa.gov/topics/partnerships-and-collaboration/joint-cyber-defense-collaborative
+  * SAFECOM
+    * https://www.cisa.gov/safecom/meetings
  
 |date|内容|
 |---|---|
