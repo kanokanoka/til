@@ -12,6 +12,8 @@
   * https://www.ipa.go.jp/security/controlsystem/ug65p900000197wa-att/000076755.pdf
   * Infrastructure Resilience Planning Framework (IRPF)
     * https://www.cisa.gov/news-events/news/cisa-releases-infrastructure-resilience-planning-framework-launchpoint
+  * JCDC
+    * https://www.cisa.gov/topics/partnerships-and-collaboration/joint-cyber-defense-collaborative
  
 |date|内容|
 |---|---|
