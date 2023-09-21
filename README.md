@@ -16,6 +16,9 @@
     * https://www.cisa.gov/topics/partnerships-and-collaboration/joint-cyber-defense-collaborative
   * SAFECOM
     * https://www.cisa.gov/safecom/meetings
+   
+  * https://github.com/Octoberfest7/TeamsPhisher
+  * https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/
  
 |date|内容|
 |---|---|
