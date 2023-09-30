@@ -2,5 +2,7 @@
 
 * サイバー攻撃被害に係る情報の共有・公表ガイダンス
   * https://www.nisc.go.jp/council/cs/kyogikai/guidancekentoukai.html
+  * 150ページぐらいある
+  * 情報共有と公表。2023湯沢車座で話あり
 
-* [return](../README.md)
+[return](../README.md)
