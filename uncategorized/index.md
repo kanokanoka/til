@@ -23,3 +23,14 @@
 
   * 公表に関するJPCERT記事
     * https://blogs.jpcert.or.jp/ja/2023/08/incident-disclosure-and-coordination.html
+  * 金融庁＆警察庁の緊急注意喚起（8/8)
+　  * https://www.npa.go.jp/bureau/cyber/pdf/20230808_press.pdf
+
+  * QBot
+  * BlackBasta
+  * PrivateLoader
+  * RedLine Stealer
+
+  * Google Safe Browsing
+
+  * DMARC

@@ -6,7 +6,7 @@
 
 * [イベント](event/index.md)
 
-* [会社](company/index.md)
+* [会社・組織](company/index.md)
 
 * [各種ドキュメント・ガイド類](documents/index.md)
 
