@@ -12,4 +12,7 @@
 ## 記事
 https://www2.deloitte.com/jp/ja/blog/cyber/2022/cyber-resilience-act-01.html
 
+## 書籍
+* サイバーセキュリティ法務
+
 [return](../README.md)

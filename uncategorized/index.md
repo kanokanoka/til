@@ -17,3 +17,9 @@
 |---|---|
 |2016|バングラデシュ、8100万どる|
 |2015/12|ロシア→ウクライナ|
+
+  * Z9
+  * ShinoBot
+
+  * 公表に関するJPCERT記事
+    * https://blogs.jpcert.or.jp/ja/2023/08/incident-disclosure-and-coordination.html
