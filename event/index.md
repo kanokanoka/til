@@ -5,13 +5,19 @@
   * ラスベガス
   * 2023/8/5-10
 
-* RSA 2023
+* RSA 2023 USA 2023/4/24-27(San Francisco)
+  * https://www.rsaconference.com/events/2023-usa
+* RSA 2024 USA 2024/5/6-9(San Francisco)
+  * https://www.rsaconference.com/usa
 
 * SECCON 2023/9
 
 * HITCON
 
+* JSAC
+
 * Vuls祭り
+  * Future社
 
 * プライバシー・ナイト
   * リーガル成分おおめ

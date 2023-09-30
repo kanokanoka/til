@@ -38,3 +38,6 @@
   * サイバーセキュリティ戦略
     * 2021/9閣議決定
     * 「Cybersecurity for All～誰も取り残さないサイバーセキュリティ～」
+
+  * DLLサイドローディング
+    * https://qiita.com/nshikata/items/7bd38ab18c53fc33a57e
