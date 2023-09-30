@@ -1,4 +1,4 @@
-# 会社
+# 会社・組織
 
 なぜこの会社名をメモったかをかく
 
@@ -10,5 +10,19 @@
   * https://www.nikkei.com/article/DGXZRSP651038_T10C23A3000000/
 * SandboxAQ
   * https://venturebeat.com/security/sandboxaq-unveils-sandwich-an-open-source-meta-library-of-cryptographic-algorithms/
+
+* サイバー警察局
+* サイバー特別捜査隊
+  * 新たに設置
+* サイバーテロ対策協議会
+* 国際サイバー捜査調整官
+
+* サイバー犯罪対策課
+* フィッシング対策協議会
+  * 通報
+
+* サイバーセキュリティ戦略本部
+  * 内閣に設置
+  * NISCが事務局
  
 [return](../README.md)
