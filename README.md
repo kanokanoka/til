@@ -8,6 +8,8 @@
 
 * [会社](company/index.md)
 
+* [各種ドキュメント・ガイド類](documents/index.md)
+
 * 未整理
   * https://www.ipa.go.jp/security/controlsystem/ug65p900000197wa-att/000076755.pdf
   * Infrastructure Resilience Planning Framework (IRPF)
