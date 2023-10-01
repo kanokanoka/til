@@ -16,9 +16,6 @@
 　  * https://www.npa.go.jp/bureau/cyber/pdf/20230808_press.pdf
 
   * QBot
-  * BlackBasta
-  * PrivateLoader
-  * RedLine Stealer
 
   * Google Safe Browsing
 

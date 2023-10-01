@@ -4,4 +4,10 @@
 * Z9
 * ShinoBot
 
+## マルウェア
+
+* BlackBasta
+* RedLine Stealer
+* PrivateLoader
+
 [return](../README.md)
