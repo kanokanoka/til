@@ -7,7 +7,6 @@
   * https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/
   * https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/
   * IAB(イニシャルアクセスブローカー)
-  * storm-0324
   * Peach Sandstorm
 
   * 公表に関するJPCERT記事

@@ -9,5 +9,7 @@
 * BlackBasta
 * RedLine Stealer
 * PrivateLoader
+* JSSLoader
+* LightlessCan
 
 [return](../README.md)
