@@ -29,4 +29,7 @@
     * 「Cybersecurity for All～誰も取り残さないサイバーセキュリティ～」
 
   * DLLサイドローディング
-    * https://qiita.com/nshikata/items/7bd38ab18c53fc33a57e
+    * DLLサイドローディングの検証
+      * https://qiita.com/nshikata/items/7bd38ab18c53fc33a57e
+    * 複雑な DLL サイドローディング攻撃を実行する「Dragon Breath」グループ
+      * https://news.sophos.com/ja-jp/2023/05/03/doubled-dll-sideloading-dragon-breath-jp/

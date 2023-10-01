@@ -1,6 +1,6 @@
 # 会社・組織
 
-なぜこの会社名をメモったかをかく
+## private
 
 * CyberKnight Technologies FZ-LLC
   * https://www.nikkei.com/article/DGXZRSP651038_T10C23A3000000/
@@ -10,6 +10,9 @@
   * https://www.nikkei.com/article/DGXZRSP651038_T10C23A3000000/
 * SandboxAQ
   * https://venturebeat.com/security/sandboxaq-unveils-sandwich-an-open-source-meta-library-of-cryptographic-algorithms/
+
+
+## public
 
 * SAFECOM
   * https://www.cisa.gov/safecom/meetings
@@ -27,5 +30,11 @@
 * サイバーセキュリティ戦略本部
   * 内閣に設置
   * NISCが事務局
+
+## 攻撃者
+* Dragon Breath
+* ラザルス
+  * 北朝鮮
+* APT42
  
 [return](../README.md)
