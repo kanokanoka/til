@@ -11,6 +11,9 @@
 * SandboxAQ
   * https://venturebeat.com/security/sandboxaq-unveils-sandwich-an-open-source-meta-library-of-cryptographic-algorithms/
 
+* SAFECOM
+  * https://www.cisa.gov/safecom/meetings
+
 * サイバー警察局
 * サイバー特別捜査隊
   * 新たに設置
