@@ -29,3 +29,7 @@
       * https://qiita.com/nshikata/items/7bd38ab18c53fc33a57e
     * 複雑な DLL サイドローディング攻撃を実行する「Dragon Breath」グループ
       * https://news.sophos.com/ja-jp/2023/05/03/doubled-dll-sideloading-dragon-breath-jp/
+
+  * Pacu
+    * AWSエクスプロイトフレームワーク
+    　　https://jpn.nec.com/cybersecurity/blog/220114/index.html

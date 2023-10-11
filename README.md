@@ -12,6 +12,9 @@
 
 * [各種ツール類](tools/index.md)
 
-* [各種ドキュメント・ガイド類](documents/index.md)
+* [各種ドキュメント・ガイド類][documents]
 
-* [未整理](uncategorized/index.md)
+* [未整理][uncategorized]
+
+[documents]: documents/index.md
+[uncategorized]: uncategorized/index.md
