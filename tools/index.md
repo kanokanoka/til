@@ -7,6 +7,10 @@
 * Pacu
   * モジュールという形で
   * https://github.com/RhinoSecurityLabs/pacu
+* Tor
+* Hayabusa
+  * 大和セキュリティによって開発
+  * イベントログの脅威ハンティングツール
 
 ## マルウェア
 

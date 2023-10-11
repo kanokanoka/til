@@ -30,6 +30,10 @@
     * 複雑な DLL サイドローディング攻撃を実行する「Dragon Breath」グループ
       * https://news.sophos.com/ja-jp/2023/05/03/doubled-dll-sideloading-dragon-breath-jp/
 
-  * Pacu
-    * AWSエクスプロイトフレームワーク
-    　　https://jpn.nec.com/cybersecurity/blog/220114/index.html
+  * RDPビットマップキャッシュ
+    * "%UserProfile%\AppData\Local\Microsoft\Terminal Server Client\Cache"
+    * BMC-Tools
+    * RdpCacheStitcher 
+  * EVTX-ATTACK-SAMPLES
+    * Windowsのイベントログのサンプルっぽい
+    * https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
