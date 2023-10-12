@@ -15,4 +15,17 @@
   * 1992年
   * CIAの概念
 
+* Google Hacking Database(GHDB)
+  * 検索エンジンで探す
+
+* IPA
+  * 安全なウェブサイトの作り方
+
+* OWASP
+  * OWASP Testing Project
+    * Webアプリケーションの
+
+* ISOG-J
+  脆弱性診断士(Webアプリケーション)スキルマップ&シラバス
+
 [return](../README.md)
