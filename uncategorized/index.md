@@ -37,3 +37,6 @@
   * EVTX-ATTACK-SAMPLES
     * Windowsのイベントログのサンプルっぽい
     * https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+
+  * Offensive Security CheatSheet
+    * https://cheatsheet.haax.fr/
