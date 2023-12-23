@@ -11,6 +11,8 @@
   * https://www.rsaconference.com/usa
 
 * SECCON 2023/9
+* SECCON 電脳会議 2023
+  * 2023/12/23-24 浅草橋
 
 * HITCON
 
@@ -33,6 +35,8 @@
   * 道後
   * 九州
   * 熱海 2023/7
+
+* AVTokyo 2023 渋谷
 
 [return](../README.md)
 

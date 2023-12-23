@@ -1,5 +1,7 @@
 # 各種ツール類
 
+ユースケース別に整理したほうが良さそう
+
 * https://github.com/Octoberfest7/TeamsPhisher
 * Z9
 * ShinoBot
@@ -11,6 +13,9 @@
 * Hayabusa
   * 大和セキュリティによって開発
   * イベントログの脅威ハンティングツール
+* Cobalt Strike
+  * 商用セキュリティツール
+  * Cobalt Strike Beacon
 
 ## マルウェア
 

@@ -40,3 +40,7 @@
 
   * Offensive Security CheatSheet
     * https://cheatsheet.haax.fr/
+
+  * Pyjail
+
+  * ダイヤモンドモデル

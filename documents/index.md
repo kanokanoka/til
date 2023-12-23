@@ -28,4 +28,7 @@
 * ISOG-J
   脆弱性診断士(Webアプリケーション)スキルマップ&シラバス
 
+* Joint Intelligence Joint Publication 2-0(2007/6/22)
+  * インテリジェンス/OSINTについての話
+
 [return](../README.md)
