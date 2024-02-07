@@ -16,6 +16,9 @@
 * Cobalt Strike
   * 商用セキュリティツール
   * Cobalt Strike Beacon
+* nmap
+  * これわかりやすかった
+  * https://qiita.com/reacon4234/items/4b6c737aac6912306b34
 
 ## マルウェア
 
