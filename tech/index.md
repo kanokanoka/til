@@ -18,6 +18,9 @@ git add * | git commit . -m "update" | git push origin main
 [return](../README.md)
 
 ## Hydra
+パスワードクラック
 ```
 hydra -L user.lst -P pass.lst -t 8 10.0.0.5 ftp
+hydra -l userlist.txt -P passwordlist.txt 192.168.0.107 ftp
+hydra -l ftpuser -P passwordlist.txt 192.168.0.107 ftp
 ```
