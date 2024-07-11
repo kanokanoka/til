@@ -28,6 +28,7 @@
 * grroxy
   * https://grroxy.com/
 * rapid7/metasploitable3
+  * あえて脆弱性が存在する状態のやられLinux。vmdkとか
   * https://github.com/rapid7/metasploitable3
 
 ## マルウェア
