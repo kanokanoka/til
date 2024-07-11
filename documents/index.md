@@ -31,5 +31,8 @@
 
 * Joint Intelligence Joint Publication 2-0(2007/6/22)
   * インテリジェンス/OSINTについての話
+ 
+* GraphQL 脆弱性診断ガイドライン
+  * https://github.com/WebAppPentestGuidelines/graphQLGuideLine
 
 [return](../README.md)
