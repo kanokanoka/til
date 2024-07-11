@@ -26,7 +26,8 @@
     * Webアプリケーションの
 
 * ISOG-J
-  脆弱性診断士(Webアプリケーション)スキルマップ&シラバス
+  * 脆弱性診断士(プラットフォーム)スキルマップ&シラバス
+    * https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/About-Skillmap_and_Syllabus.md
 
 * Joint Intelligence Joint Publication 2-0(2007/6/22)
   * インテリジェンス/OSINTについての話
