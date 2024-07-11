@@ -1,6 +1,6 @@
-# 各種ツール類
+# 各種ツール・サービス類
 
-ユースケース別に整理したほうが良さそう
+## ツール・サービス
 
 * https://github.com/Octoberfest7/TeamsPhisher
 * Z9
@@ -27,6 +27,8 @@
   * https://www.kali.org/tools/firewalk/
 * grroxy
   * https://grroxy.com/
+* rapid7/metasploitable3
+  * https://github.com/rapid7/metasploitable3
 
 ## マルウェア
 
