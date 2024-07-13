@@ -41,4 +41,18 @@
 * JSSLoader
 * LightlessCan
 
+## AI
+* Llama
+  * Metaが公開
+  * https://llama.meta.com/
+* Gemini
+  * Googleが展開
+  * https://deepmind.google/technologies/gemini/
+* Claude
+  * Anthropicが展開
+  * https://www.anthropic.com/claude
+* ELYZA-japanese-Llama-2-13b
+  * Llama 2をベース。日本語特化
+  * https://note.com/elyza/n/n5d42686b60b7
+
 [return](../README.md)
