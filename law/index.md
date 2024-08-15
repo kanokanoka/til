@@ -1,5 +1,6 @@
 # 法律全般
 
+* GDPR
 * NIS Directive
 * EUサイバーセキュリティ戦略
 * [EUサイバーレジリエンス法](./EU_Cyber_Resilience_Act.md)
@@ -12,13 +13,14 @@
   * https://elaws.e-gov.go.jp/document?lawid=426AC1000000104
   * 平成26年 →28,30改正
 * 個人情報保護法
-  * 平成17年全面思考
+  * 平成17年全面施行
 * マイナンバー法
 * 不正アクセス禁止法
 * 威力業務妨害罪・電子計算機損壊等業務妨害罪
 * 不正指令電磁的記録に関する罪
   * ウイルス作成罪
   * 刑法第百六十八条の二
+* NIST CSF
 
 ## 記事
 https://www2.deloitte.com/jp/ja/blog/cyber/2022/cyber-resilience-act-01.html
