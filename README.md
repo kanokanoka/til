@@ -12,6 +12,8 @@
 
 * [各種ツール類](tools/index.md)
 
+* [コマンド](tech/index.md)
+
 * [各種ドキュメント・ガイド類][documents]
 
 * [未整理][uncategorized]
