@@ -16,6 +16,8 @@
 
 * [各種ドキュメント・ガイド類][documents]
 
+* [やってみた](try/index.md)
+
 * [未整理][uncategorized]
 
 [documents]: documents/index.md
